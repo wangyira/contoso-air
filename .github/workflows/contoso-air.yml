@@ -39,7 +39,7 @@ on:
 
 env:
   ACR_RESOURCE_GROUP: myresourcegroup
-  AZURE_CONTAINER_REGISTRY: myregistry5kyd
+  AZURE_CONTAINER_REGISTRY: myregistryzwjd
   CONTAINER_NAME: contoso-air
   CLUSTER_NAME: myakscluster
   CLUSTER_RESOURCE_GROUP: myresourcegroup
